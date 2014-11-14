@@ -21,7 +21,11 @@
 1. 下载
 2. 将 smilies 文件夹替换 /wp-includes/images/smilies 目录
 
-##2.风格示意图
+##2.必备插件
+
+[wp-kit-cn](https://wordpress.org/plugins/wp-kit-cn/)
+
+##3.风格示意图
 
 [点击查看首页截图](images/index.png)
 
